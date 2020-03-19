@@ -1,1 +1,1 @@
-console.log("mintm")
+console.log("cmjai")
