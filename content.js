@@ -1,1 +1,1 @@
-console.log("gcdmt")
+console.log("mintm")
