@@ -1,2 +1,2 @@
 console.log("wpdba")
-console.log("maqls")
+console.log("smntp")
